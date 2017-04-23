@@ -50,8 +50,8 @@
        animation-duration: 5s;
        animation-iteration-count: infinite;
        overflow:hidden;
-       box-shadow: 0 0 0 5px #efefef,
-	      0 0 0 6px #dbd9d9,
+       box-shadow: 0 0 0 2px #efefef,
+	      0 0 0 4px #dbd9d9,
 	      0 0 0 11px #b7b5b5,
 	      0 0 0 17px #919191,
 	      0 0 0 25px #777777,
